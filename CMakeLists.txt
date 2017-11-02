@@ -93,6 +93,7 @@ sax
 snappy
 socket
 ssl
+stats_monitor
 struct
 syslog
 systemd
